@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perceptron-recognition", "perceptron-recognition\perceptron-recognition.csproj", "{3A39437D-3903-41D3-8D6A-03517CD2ED09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "perceptron-recognition-tests", "perceptron-recognition-tests\perceptron-recognition-tests.csproj", "{61E9DDBD-84EC-419B-828F-AC344C384CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A39437D-3903-41D3-8D6A-03517CD2ED09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A39437D-3903-41D3-8D6A-03517CD2ED09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A39437D-3903-41D3-8D6A-03517CD2ED09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A39437D-3903-41D3-8D6A-03517CD2ED09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E9DDBD-84EC-419B-828F-AC344C384CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E9DDBD-84EC-419B-828F-AC344C384CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E9DDBD-84EC-419B-828F-AC344C384CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E9DDBD-84EC-419B-828F-AC344C384CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
